@@ -1,6 +1,10 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+
+### Name: V.B.LAKSHA
+### Register Number: 212224220051
+# Date: 18.03.2026
+
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +51,7 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/9feabf5f-8077-49e6-a500-47771c9235de)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
